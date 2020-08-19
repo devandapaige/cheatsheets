@@ -1,0 +1,30 @@
+Cheat Sheets/Websites
+
+HTML5
+    Multi-page Resource - https://cdn.rawgit.com/hostinger/banners/53bd21f8/tutorials/pdf/The-Complete-HTML-Cheat-Sheet-(Black-and-White)-Print-Version.pdf
+
+    Single-page Resource - https://www.shecodes.io/documents/cheatsheets/html.pdf
+
+    short printable - https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/06ffd509-ac92-4b81-bfa0-9c3a34b3ab35/html5-cheat-sheet.pdf
+
+    Special Text Characters - https://cheatography.com/davechild/cheat-sheets/html-character-entities/pdf/
+
+
+CSS
+    2-page Resource - https://www.shecodes.io/documents/cheatsheets/css.pdf
+
+    multi-page resource - https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf
+
+    printable - https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d7fb67af-5180-463d-b58a-bfd4a220d5d0/css3-cheat-sheet.pdf
+
+    CSS Animations - https://learn-the-web.algonquindesign.ca/topics/css-animations-effects-cheat-sheet/
+
+    Flexbox Guide - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+    Flexbox Guide - http://flexbox.malven.co/
+
+    Grid Guide - http://grid.malven.co/
+
+
+
+
